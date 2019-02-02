@@ -9,6 +9,7 @@
     "url": "git://github.com/PROSPricing/js-assessment.git"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "browser-sync": "^2.8.2",
     "chai": "^4.1.0",
     "expect.js": "^0.3.1",
